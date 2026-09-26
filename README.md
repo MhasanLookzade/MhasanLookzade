@@ -7,10 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Automating+Pipelines+%26+Cloud+Workflows;Containerizing+Applications+with+Docker;Securing+Environments+with+Vault+%26+SonarQube;Crafting+Modern+UIs+with+Vue.js+%26+React)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://<YOUR-USERNAME>.github.io"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-Website-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:<your-email@example.com>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/<YOUR-USERNAME>"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://mhasanlookzade.github.io/#/about"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-Website-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+  <a href="https://ir.linkedin.com/in/m-hasan-lookzadeh-0b0602232"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:<hassan.lookzade@gmail.com>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/MhasanLookzade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <!-- Live Focus Area -->
