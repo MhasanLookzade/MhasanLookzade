@@ -1,220 +1,101 @@
-Create a modern, futuristic GitHub Profile README.md for a senior DevOps Engineer and Frontend Developer.
-
-Design goals:
-- Make the profile look like a premium developer portfolio.
-- Use a clean dark-theme aesthetic.
-- Focus on DevOps automation, cloud infrastructure, security, and modern frontend engineering.
-- Avoid looking like a simple resume; make it feel like a personal brand page.
-- Use professional emojis sparingly.
-- Keep sections visually balanced and easy to scan.
-
-Structure:
-
-1. HERO SECTION
-Create a centered introduction:
+<div align="center">
 
 # ⚡ Hi, I'm <YOUR-NAME>
 
-Add a professional title:
+### DevOps Engineer • CI/CD Automation Specialist • Frontend Developer
 
-DevOps Engineer | CI/CD Automation Specialist | Frontend Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+CI%2FCD+Pipelines;Automating+Cloud+Native+Workflows;Containerizing+Applications+with+Docker;Engineering+Secure+DevSecOps+Solutions;Crafting+Modern+Frontend+Experiences" />
 
-Add an animated typing banner showing:
+<br/>
 
-- Building scalable CI/CD pipelines
-- Automating cloud-native workflows
-- Containerizing applications with Docker
-- Securing systems with DevSecOps practices
-- Creating modern interfaces with Vue.js and React
+<a href="https://github.com/<YOUR-USERNAME>">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-Add elegant social badges:
-- LinkedIn
-- Email
-- GitHub
-- Portfolio Website
+<a href="https://linkedin.com/in/<YOUR-LINKEDIN>">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Use modern shields.io styling.
+<a href="mailto:<YOUR-EMAIL>">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
 
 ---
 
-2. PROFESSIONAL SUMMARY
+# 👨‍💻 About Me
 
-Create an "About Me" section:
+I'm a **DevOps Engineer and Frontend Developer** passionate about automation, secure infrastructure, and modern web experiences.
 
-## 🚀 About Me
+I build systems that connect:
 
-Present me as an engineer who bridges development and operations.
+- ⚙️ Development workflows
+- 🚀 Automated delivery pipelines
+- 🐳 Containerized applications
+- 🔐 Security-focused engineering
+- 🎨 Modern frontend interfaces
 
-Highlight:
 
-- Designing and maintaining CI/CD pipelines
-- Automating software delivery workflows
-- Container orchestration and deployment strategies
-- Linux server administration
-- Secure infrastructure practices
-- Frontend application development
+My main focus:
 
-Mention technologies:
-
+```yaml
 DevOps:
-Docker, Jenkins, GitLab CI/CD, Nginx, Linux, Vault, SonarQube, Nexus, MinIO
+  - CI/CD Automation
+  - Docker Containers
+  - Linux Infrastructure
+  - Reverse Proxy Architecture
+  - Artifact Management
+  - Secret Management
 
 Frontend:
-Vue.js, React, TypeScript, JavaScript, Tailwind CSS, Vite
+  - Vue.js
+  - React
+  - TypeScript
+  - Modern UI Engineering
+  - Responsive Applications
 
----
+  
+             👨‍💻 Developer
 
-3. ARCHITECTURE VISUAL SECTION
+                  |
+                  v
 
-Create a modern pipeline diagram:
+          Git Repository
+        GitHub / GitLab
 
-Developer
-   |
-   v
-Git / GitLab
-   |
-   v
-Code Quality
-(SonarQube)
-   |
-   v
-CI/CD Pipeline
-(Jenkins / GitLab CI)
-   |
-   +----------------+
-   |                |
-   v                v
-Artifact Store    Secrets
-(Nexus/MinIO)     (Vault)
-   |
-   v
-Docker Containers
-   |
-   v
-Nginx Deployment
+                  |
+                  v
 
-Make it visually clean using markdown code blocks.
+        🔍 Code Quality Gate
+             SonarQube
 
----
+                  |
+                  v
 
-4. TECH STACK SECTION
+        ⚙️ CI/CD Automation
+       Jenkins / GitLab CI
 
-Create categorized technology sections.
+          +---------------+
+          |               |
+          v               v
 
-## ⚙️ DevOps & Cloud Infrastructure
+     📦 Nexus          🔐 Vault
+    Artifacts         Secrets
 
-Use modern badges/icons:
 
-- Docker
-- Jenkins
-- GitLab CI
-- HashiCorp Vault
-- SonarQube
-- Nexus Repository
-- MinIO
-- Linux
-- Bash
-- Nginx
-- Git
+                  |
+                  v
 
----
+             🐳 Docker
 
-## 🎨 Frontend Engineering
+                  |
+                  v
 
-Include:
+             🌐 Nginx
 
-- Vue.js
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Vite
+                  |
+                  v
 
----
-
-## 🧰 Development Environment
-
-Include:
-
-- VS Code
-- GitHub
-- GitLab
-- Postman
-- npm
-- Terminal tools
-
-Use skillicons.dev where appropriate.
-
----
-
-5. FEATURED PROJECTS SECTION
-
-Add a professional portfolio section:
-
-## 🚀 Featured Projects
-
-Create cards/examples:
-
-### 🔥 CI/CD Automation Platform
-Description:
-Automated application delivery pipeline using Jenkins/GitLab CI, Docker, security scanning, and artifact management.
-
-### 🛡️ DevSecOps Infrastructure
-Description:
-Secure development workflow integrating Vault secrets management and SonarQube quality gates.
-
-### 🎨 Modern Web Applications
-Description:
-Responsive frontend applications built with Vue.js, React, TypeScript, and modern UI frameworks.
-
----
-
-6. CURRENTLY BUILDING SECTION
-
-Add:
-
-## 🔭 Currently Exploring
-
-- Kubernetes
-- Cloud Native Architecture
-- Infrastructure as Code
-- Advanced DevSecOps Automation
-- AI-assisted developer tooling
-
----
-
-7. GITHUB STATISTICS
-
-Add:
-
-- GitHub streak stats
-- GitHub stats card
-- Top languages card
-
-Use modern transparent themes.
-
----
-
-8. FOOTER
-
-Create a professional closing:
-
-"Building reliable systems, automated workflows, and beautiful interfaces."
-
-Add a visitor counter.
-
----
-
-STYLE REQUIREMENTS:
-
-- Dark modern developer aesthetic
-- Glassmorphism-inspired sections
-- Minimal but impressive
-- Good spacing
-- Mobile-friendly
-- Professional recruiter-friendly appearance
-- No unnecessary long text
-- Prioritize visual impact
-- Make the README feel like a high-end software engineer portfolio
+          🚀 Production
