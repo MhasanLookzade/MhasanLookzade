@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hi, I'm <YOUR-NAME> 👋
+# ⚡ It's me , Hasan Look 👋
 ### 🛠️ DevOps Engineer & CI/CD Specialist | 🎨 Frontend Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Automating+Pipelines+%26+Cloud+Workflows;Containerizing+Applications+with+Docker;Securing+Environments+with+Vault+%26+SonarQube;Crafting+Modern+UIs+with+Vue.js+%26+React)](https://git.io/typing-svg)
@@ -18,38 +18,6 @@
 </p>
 
 </div>
-
----
-
-### 🚀 About Me
-
-- 🌐 **Interactive Portfolio:** Explore my live work, architecture diagrams, and projects at **[<YOUR-USERNAME>.github.io](https://<YOUR-USERNAME>.github.io)**
-- 🐧 **DevOps Focus:** Building robust CI/CD pipelines, containerizing applications, managing private artifact repositories, and securing secrets.
-- 🎨 **Frontend Agility:** Experienced in crafting fast, responsive user interfaces with **Vue.js**, **React**, and modern JavaScript/TypeScript.
-- 🛡️ **DevSecOps & Quality:** Automating code security analysis with **SonarQube** and managing credential lifecycles with **HashiCorp Vault**.
-- 📦 **Storage & Registry:** Setting up S3-compatible object storage with **MinIO** and package/image registries with **Sonatype Nexus**.
-- 💬 **Ask me about:** Docker containers, Jenkins / GitLab CI pipelines, Nginx reverse proxying, Linux administration, and modern web apps.
-
----
-
-### ⚙️ CI/CD & Delivery Pipeline Flow
-
-```text
- 💻 Code Commit (Git/GitLab) 
-       │
-       ▼
- 🔍 Static Analysis (SonarQube) 
-       │
-       ▼
- ⚙️ Build & Test (Jenkins / GitLab CI) 
-       │
-       ├──► 📦 Artifacts (Nexus) / Objects (MinIO)
-       ├──► 🔐 Secrets & Certs (HashiCorp Vault)
-       ▼
- 🐳 Containerization & Run (Docker & Nginx)
-```
-
----
 
 ### 🛠️ Tech Stack & Tooling
 
