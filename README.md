@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi Fellers <br> # It's me , Hasan Look
+# Hi Fellers <br> It's me , Hasan Look <p> &#128524 </p> 
 
 ### 🛠️ DevOps Engineer & CI/CD Specialist | 🎨 Frontend Developer
 
