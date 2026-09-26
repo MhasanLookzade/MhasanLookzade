@@ -77,9 +77,3 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm" />
 </p>
 
-
-<div align="center">
-
-> *"Automate the infrastructure, simplify the deployment, and craft the user experience."*
-
-</div>
