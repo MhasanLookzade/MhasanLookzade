@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi Fellers 
-It's me , Hasan Look
+# It's me , Hasan Look
 ### 🛠️ DevOps Engineer & CI/CD Specialist | 🎨 Frontend Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Automating+Pipelines+%26+Cloud+Workflows;Containerizing+Applications+with+Docker;Securing+Environments+with+Vault+%26+SonarQube;Crafting+Modern+UIs+with+Vue.js+%26+React)](https://git.io/typing-svg)
